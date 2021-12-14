@@ -1,0 +1,20 @@
+nav{
+    color: white;
+    background-color:#f55200;
+    width: 100%;
+    position: fixed;
+     top: -10%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    transition: 1s;
+    button{
+        padding:0px;
+        background-color: transparent;
+        font-size: calc(10px + 2vmin);
+    }
+}
+.show-menu{
+   top: 0px;
+}
