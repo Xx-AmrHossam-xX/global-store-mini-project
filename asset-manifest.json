@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/global-store-mini-project/static/css/main.5a3e0fd1.chunk.css",
+    "main.js": "/global-store-mini-project/static/js/main.62276888.chunk.js",
+    "main.js.map": "/global-store-mini-project/static/js/main.62276888.chunk.js.map",
+    "runtime-main.js": "/global-store-mini-project/static/js/runtime-main.93abcc78.js",
+    "runtime-main.js.map": "/global-store-mini-project/static/js/runtime-main.93abcc78.js.map",
+    "static/js/2.59e0a97a.chunk.js": "/global-store-mini-project/static/js/2.59e0a97a.chunk.js",
+    "static/js/2.59e0a97a.chunk.js.map": "/global-store-mini-project/static/js/2.59e0a97a.chunk.js.map",
+    "static/js/3.0dbfb3d2.chunk.js": "/global-store-mini-project/static/js/3.0dbfb3d2.chunk.js",
+    "static/js/3.0dbfb3d2.chunk.js.map": "/global-store-mini-project/static/js/3.0dbfb3d2.chunk.js.map",
+    "index.html": "/global-store-mini-project/index.html",
+    "static/css/main.5a3e0fd1.chunk.css.map": "/global-store-mini-project/static/css/main.5a3e0fd1.chunk.css.map",
+    "static/js/2.59e0a97a.chunk.js.LICENSE.txt": "/global-store-mini-project/static/js/2.59e0a97a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93abcc78.js",
+    "static/js/2.59e0a97a.chunk.js",
+    "static/css/main.5a3e0fd1.chunk.css",
+    "static/js/main.62276888.chunk.js"
+  ]
+}
